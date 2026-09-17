@@ -1,4 +1,4 @@
-tvm"""Ties the five programs together.
+"""Ties the five programs together.
 
 Pick a calculation, type in the figures, then show, save, chart or compare
 the results:
